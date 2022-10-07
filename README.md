@@ -8,3 +8,6 @@ A 400bp scheme that has been designed against the specific outbreak clade. Utili
 
 These scheme range from 700bp to 1200bp, and have been designed to encompass the entire Sudan ebolavirus taxid. Utilising all sequences in SUDV_400 plus; EU338380.1, KC242783.2, MK952150.1, FJ968794.1, MH121169.1.
 
+
+
+![Alt text](https://github.com/quick-lab/sudan-ebolavirus--186536/blob/main/tree.png "Tree of included sequences")
