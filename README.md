@@ -10,4 +10,9 @@ These scheme range from 700bp to 1200bp, and have been designed to encompass the
 
 
 
+
+## Tree 
+
+Clades covered in SUDV_400 are shown in grey box
+
 ![Alt text](https://github.com/quick-lab/sudan-ebolavirus--186536/blob/main/tree.png "Tree of included sequences")
